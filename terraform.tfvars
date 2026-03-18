@@ -1,0 +1,5 @@
+rg_name   = "aks-poc-rg"
+location  = "East US"
+vnet_name = "aks-poc-vnet"
+aks_name  = "aks-poc-cluster"
+acr_name  = "akspocregistry123"
